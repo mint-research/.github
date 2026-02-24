@@ -28,4 +28,4 @@ Are you a Software Engineering at USYD student looking for a project that balanc
 Thinking of something else? Get in touch with [Ali](http://alishakiba.github.io).
 
 ---
-[University of Sydney](https://www.sydney.edu.au/) | [School of Electrical and Computer Engineering](https://www.sydney.edu.au/engineering/about/school-of-electrical-and-computer-engineering.html) | [Dr. Ali Shakiba](https://alishakiba.github.io)
+[University of Sydney](https://www.sydney.edu.au/) | [School of Electrical and Computer Engineering](https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-computer-engineering.html) | [Dr. Ali Shakiba](https://alishakiba.github.io)
