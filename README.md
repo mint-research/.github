@@ -20,5 +20,12 @@ We are just getting started. If you are a student or researcher at USYD interest
 
 > *"The future is recursive."*
 
+### 🎓 Student Opportunities (3rd Year Thesis / Capstone)
+Are you a Software Engineering at USYD student looking for a project that balances academic rigor with real-world impact? We are looking for motivated students for 2026, and beyond.
+
+[List of projects](https://canvas.sydney.edu.au/courses/16321/pages/thesis-topics#:~:text=Dr%20Ali%20Shakiba-,Software%20engineering,-Digital%20Twins)
+
+Thinking of something else? Get in touch with [Ali](http://alishakiba.github.io).
+
 ---
 [University of Sydney](https://www.sydney.edu.au/) | [School of Electrical and Computer Engineering](https://www.sydney.edu.au/engineering/about/school-of-electrical-and-computer-engineering.html) | [Dr. Ali Shakiba](https://alishakiba.github.io)
